@@ -1,0 +1,4 @@
+﻿oldModel/pifuhd/results/
+oldModel/pifuhd/checkpoints/
+*.pt
+*.obj
